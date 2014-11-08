@@ -40,7 +40,7 @@ p {
 .Header {
 	font-family: "Arial";
 	font-size: 10px;
-	color: ;
+	color: #FFF;
 }
 
 #container {
@@ -51,20 +51,17 @@ p {
 }
 
 #header {
-	height: 95px;
-	margin: 30px;
-	padding: 10px;
-	background-color: ;
+	height: 300px;
+	margin: 10px;
+	padding-top: 50px;
 	
 }
 
 #navigation {
-	height: 40px;
+	height: 55px;
 	margin: 30px;
 	padding-top: 50px;
 	padding-bottom: 10px;
-	background-color: #fff;
-	box-shadow: 1px 2px 2px 1px #e4e4e4;
 	position: left;
 }
 
@@ -101,26 +98,27 @@ p {
 		-webkit-border-radius: 5px;
 		font-family: "Arial";
 		opacity: 0.50;
-		color: #73FFCB;
+		color: #331355;
 		padding: 5px;
 
 		}
 
 #content {
-	height: 400px;
+	height: 0px;
 	margin: 30px;
-    padding-top: 160px;
-    background-color: ;
+    padding-top: 60px;
+    background-color: #fff;
+   
 }
 
 
 #footer {
-	height: 90px;
+	height: 0px;
 	margin: 20px;
 	padding: 30px;
 	font-family: "Arial";
 	font-size: 10px;
-	background-color: ;
+	background-color: #fff;
 }
 
 
